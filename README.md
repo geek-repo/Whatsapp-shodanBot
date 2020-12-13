@@ -1,2 +1,3 @@
 # Whatsapp-shodanBot
-shodan bot on whatsapp
+
+The Bot was integrated with Twilio Whatsapp API.
